@@ -2,12 +2,24 @@
 
 ### 🚀 Backend Developer | Java & Spring Boot | Angular | UDA Student
 
-> **Passionate about System Design and Software Architecture**
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Building+clean%2C+scalable+and+maintainable+systems;Backend+Developer+with+Java+%26+Spring+Boot;Passionate+about+System+Design+and+Software+Architecture" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile_Views-204-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Followers-9-000000?style=flat-square&logo=github">
-  <img src="https://img.shields.io/badge/Stars-1-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-204-36BCF7?style=flat-square">
+  <img src="https://img.shields.io/badge/FOLLOWERS-9-333333?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/STARS-1-FFD700?style=flat-square">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BACKEND-JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/FRAMEWORK-SPRING_BOOT-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/FRONTEND-ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/COMPANY-SOFTDREAMS-007ACC?style=flat-square">
+  <img src="https://img.shields.io/badge/UNIVERSITY-UTT-FF5722?style=flat-square">
 </p>
 
 ---
@@ -16,17 +28,17 @@
 
 I am **Nguyễn Đăng Vũ**, currently a **3rd-year student at University of Transport Technology (UDA)** and working at **SoftDreams**.
 
-💻 My main focus is **Backend Development with Java**, especially using **Spring Boot** to build RESTful APIs, business workflows, and database-driven systems.
-🌐 On the frontend side, I work with **Angular** to create practical and maintainable user interfaces.
-🎯 **Mission:** Build clean, scalable, and well-architected systems that solve real business problems.
+* 💻 My main focus is **Backend Development with Java**, especially using **Spring Boot** to build RESTful APIs, business workflows, and database-driven systems.
+* 🌐 On the frontend side, I work with **Angular** to create practical and maintainable user interfaces.
+* 🎯 **Mission:** Build clean, scalable, and well-architected systems that solve real business problems.
 
 | Domain | Focus Area |
 | :--- | :--- |
-| 🧩 Architecture | Backend architecture and clean code |
-| ⚙️ Framework | Spring Boot application design |
-| 🗄️ Data | Database modeling and SQL |
-| 🏗️ Design | Modular Monolith and scalable system design |
-| 📦 Business | Inventory, orders, warehouse, and approval processes |
+| 🧩 **Architecture** | Backend architecture and clean code |
+| ⚙️ **Framework** | Spring Boot application design |
+| 🗄️ **Data** | Database modeling and SQL |
+| 🏗️ **Design** | Modular Monolith and scalable system design |
+| 📦 **Business** | Inventory, orders, warehouse, and approval processes |
 
 ---
 
@@ -50,7 +62,7 @@ I am **Nguyễn Đăng Vũ**, currently a **3rd-year student at University of Tr
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ### 🗄️ Database & Storage
@@ -79,12 +91,12 @@ I am **Nguyễn Đăng Vũ**, currently a **3rd-year student at University of Tr
 
 | 🔨 Current Projects | 📚 Currently Learning |
 | :--- | :--- |
-| • Building and improving backend services with **Java Spring Boot** | • 🏗️ Modular Monolith Architecture |
+| • Building & improving backend services with **Java Spring Boot** | • 🏗️ Modular Monolith Architecture |
 | • Practicing real-world business modules: | • 📨 Message Brokers (**RabbitMQ / Kafka**) |
-| 📑 Purchase Orders | • 🎨 System Design Patterns |
-| 🔄 Stock Transfers | • 🧹 Clean Architecture & DDD |
-| 📊 Stock Adjustments | • 🐳 Docker & Containerization |
-| 🏭 Inventory Management | |
+| &nbsp;&nbsp;&nbsp;&nbsp;📋 Purchase Orders | • 🎨 System Design Patterns |
+| &nbsp;&nbsp;&nbsp;&nbsp;🔄 Stock Transfers | • 🧹 Clean Architecture & DDD |
+| &nbsp;&nbsp;&nbsp;&nbsp;📊 Stock Adjustments | • 🐳 Docker & Containerization |
+| &nbsp;&nbsp;&nbsp;&nbsp;🏭 Inventory Management | |
 
 ---
 
@@ -103,11 +115,13 @@ My goal is to become a strong **Backend Engineer** who can not only implement fe
 
 ## 🎯 Next Goals
 
-![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-MASTER_LEVEL-blue?style=flat-square)
-![Cloud Basics](https://img.shields.io/badge/CLOUD_BASICS-AWS_/_GCP-orange?style=flat-square)
-![Message Brokers](https://img.shields.io/badge/MESSAGE_BROKERS-KAFKA_/_RABBITMQ-black?style=flat-square)
-![DevOps](https://img.shields.io/badge/DEVOPS_BASICS-DOCKER_/_CI_CD-blue?style=flat-square)
-![Testing](https://img.shields. ://img.shields.io/badge/TESTING-UNIT_&_INTEGRATION-green?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/SYSTEM_DESIGN-MASTER_LEVEL-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CLOUD_BASICS-AWS_/_GCP-FF9900?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MESSAGE_BROKERS-KAFKA_/_RABBITMQ-333333?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DEVOPS_BASICS-DOCKER_/_CI_CD-2496ED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TESTING-UNIT_&_INTEGRATION-4CAF50?style=for-the-badge">
+</p>
 
 ---
 
