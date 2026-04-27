@@ -44,7 +44,7 @@ I am **Nguyễn Đăng Vũ**, currently a **3rd-year student at University of Tr
 
 ## 👨‍🎓 About Me
 
-* 🎓 **3rd-year student** at **University of Transport Technology (UTT)**
+* 🎓 **3rd-year student** at **University of Transport Technology (UDA)**
 * ✨ **Currently working** at **SoftDreams**
 * 💻 Main backend stack: **Java, Spring Boot**
 * 🌐 Frontend stack: **Angular**
@@ -167,5 +167,5 @@ My goal is to become a strong **Backend Engineer** who can not only implement fe
 
 <p align="center">
   <i>"Keep coding and building awesome things!"</i><br>
-  ⭐️ From <b>Hoàng Đình Dũng</b>
+  ⭐️ From <b>Nguyễn Đăng Vũ</b>
 </p>
