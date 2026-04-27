@@ -128,7 +128,7 @@ My goal is to become a strong **Backend Engineer** who can not only implement fe
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hoangdinhdung05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nguyendangvu.dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdinhdung05&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
