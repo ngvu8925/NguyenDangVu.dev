@@ -26,7 +26,7 @@
 
 ## 👨‍💼 Professional Summary
 
-I am **Nguyễn Đăng Vũ**, currently a **3rd-year student at University of Transport Technology (UDA)** and working at **SoftDreams**.
+I am **Nguyễn Đăng Vũ**, currently a **3rd-year Dong A University students majoring in artificial intelligence..
 
 * 💻 My main focus is **Backend Development with Java**, especially using **Spring Boot** to build RESTful APIs, business workflows, and database-driven systems.
 * 🌐 On the frontend side, I work with **Angular** to create practical and maintainable user interfaces.
