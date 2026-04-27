@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/FRAMEWORK-SPRING_BOOT-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/FRONTEND-ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/COMPANY-SOFTDREAMS-007ACC?style=flat-square">
-  <img src="https://img.shields.io/badge/UNIVERSITY-UTT-FF5722?style=flat-square">
+  <img src="https://img.shields.io/badge/UNIVERSITY-UDA-FF5722?style=flat-square">
 </p>
 
 ---
@@ -44,7 +44,7 @@ I am **Nguyễn Đăng Vũ**, currently a **3rd-year student at University of Tr
 
 ## 👨‍🎓 About Me
 
-* 🎓 **3rd-year student** at **University of Transport Technology (UDA)**
+* 🎓 **3rd-year student** at **University of Transport Technology (UTT)**
 * ✨ **Currently working** at **SoftDreams**
 * 💻 Main backend stack: **Java, Spring Boot**
 * 🌐 Frontend stack: **Angular**
@@ -125,11 +125,47 @@ My goal is to become a strong **Backend Engineer** who can not only implement fe
 
 ---
 
-## 🚀 Featured Interests
+## 📊 GitHub Stats & Activity
 
-* 🏛️ **Software Architecture:** `Expert`
-* ⚡ **Backend Performance:** `Enthusiast`
-* 🔄 **Business Flow Design:** `Practitioner`
-* 🧠 **Problem Solving:** `Daily`
-* 🗄️ **Database Design:** `Advanced`
-* 📡 **Distributed Systems:** `Learning`
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hoangdinhdung05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdinhdung05&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangdinhdung05&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangdinhdung05&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://softdreams.vn" target="_blank">
+    <img src="https://img.shields.io/badge/SOFTDREAMS-VISIT_WEBSITE-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://facebook.com/hoangdinhdung05" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-Nguyễn Đăng__Vũ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://github.com/hoangdinhdung05" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-ngvu8925-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:nvu0057@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-nvu0057@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep coding and building awesome things!"</i><br>
+  ⭐️ From <b>Hoàng Đình Dũng</b>
+</p>
